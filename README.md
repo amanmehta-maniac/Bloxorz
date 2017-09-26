@@ -1,5 +1,5 @@
 ## BLOXORZ
-MADE BY- HARSHIT PATNI (201501107)
+MADE BY- Aman Mehta
 
 ### Abstract-
 A 3d game in which there is a movable cuboidal block. The goal of the player is to make it fall into a square hole. The world consists of square tiles which can be arranged in any manner. The tiles have
@@ -18,6 +18,7 @@ to be carved out of a 10 X 10 area The movable block is a cuboid made of 2 cubes
 * 'I' to toggle first person view
 * Left mouse click and drag, right mouse click and drag to control view in helicopter
 * Mouse movement in first person view to change look direction
+* 'q' to exit
 
 
 # Bloxorz
